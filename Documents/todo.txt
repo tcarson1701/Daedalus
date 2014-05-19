@@ -1,0 +1,22 @@
+- (Ted) Bird-to-bird collision
+- (Ted) Bird-to-world collision
+- (Ted) Enemy behavior, attack
+- (Ted) Enemy behavior, wander
+- (Ted) Bird walking
+- (Ted) Level restart
+- (Ted) Death -> restart
+
+- (Kang Su) Orb object (picked up by nearby player bird)
+- (Kang Su) Orb pickup (draws on bird)
+- (Kang Su) Gate object (shows required orb, dynamically removed when correct orb is near)
+
+- (Kang Su) Animated flap
+- (Kang Su) Animation, walking
+
+- (Kang Su) Menu
+- (Kang Su) Menu, level selection
+- (Kang Su) Zero level assets (with collisions)
+- (Kang Su) Exit game to menu
+
+- (Kang Su) Tornado object
+- (Kang Su) Tornado-to-bird collision
